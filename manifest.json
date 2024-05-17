@@ -1,0 +1,9 @@
+{
+    "name": "HTTPBridge",
+    "version_number": "1.0.0",
+    "description": "Adds asynchronous HTTP request/response support to Unreal Blueprint logic mods",
+    "website_url": "https://github.com/Spectre-Cular/HTTPBridgeMod",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.0.6"
+    ]
+}
