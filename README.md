@@ -14,7 +14,7 @@ Adds asynchronous HTTP request/response support to Unreal Blueprint logic mods
 
 ## Installing
 
-### Automatic
+### Automatic (**NOTE:** Not currently working! Use Manual install instead!!)
 
 - Install [r2modman Mod Manager](https://thunderstore.io/package/ebkr/r2modman/)
 - Visit [this mod's webpage on Thunderstore](https://thunderstore.io/c/palworld/p/PWR/HttpBridge/)
